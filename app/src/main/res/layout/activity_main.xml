@@ -12,6 +12,13 @@
         android:layout_alignParentBottom="true"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
+    <ImageView
+        android:id="@+id/idimgqrcode"
+        android:src="@drawable/qr"
+        android:layout_centerInParent="true"
+        android:layout_width="300dp"
+        android:layout_height="300dp" />
+
 
 
 
